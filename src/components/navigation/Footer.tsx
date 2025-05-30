@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
                 strokeWidth={1.5}
               />
               <span className="text-lg font-display font-semibold text-yoga-heading">
-                Serene Yoga
+                Bhargavi  Yoga
               </span>
             </div>
             <p className="text-gray-600 mb-6">
@@ -106,8 +106,8 @@ const Footer: React.FC = () => {
                 </a>
               </p>
               <p>
-                <a href="mailto:info@sereneyoga.com" className="hover:text-yoga-heading transition-colors">
-                  info@sereneyoga.com
+                <a href="mailto:info@Bhargavi yoga.com" className="hover:text-yoga-heading transition-colors">
+                  info@Bhargavi yoga.com
                 </a>
               </p>
             </address>
@@ -116,7 +116,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-200 pt-8">
           <p className="text-center text-gray-500 text-sm">
-            © {new Date().getFullYear()} Serene Yoga. All rights reserved.
+            © {new Date().getFullYear()} Bhargavi  Yoga. All rights reserved.
           </p>
         </div>
       </div>

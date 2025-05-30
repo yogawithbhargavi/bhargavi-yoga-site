@@ -16,14 +16,14 @@ const testimonials: Testimonial[] = [
     id: 1,
     name: "Emma Johnson",
     role: "Yoga Practitioner",
-    quote: "Serene Yoga has transformed not just my practice, but my entire approach to life. The personalized attention and expert guidance have helped me grow in ways I never thought possible.",
+    quote: "Bhargavi  Yoga has transformed not just my practice, but my entire approach to life. The personalized attention and expert guidance have helped me grow in ways I never thought possible.",
     image: "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
   {
     id: 2,
     name: "Michael Chen",
     role: "Stress Management Client",
-    quote: "After months of stress and anxiety, I found Serene Yoga. The peaceful environment and mindful approach have given me tools to manage my stress and find balance in my busy life.",
+    quote: "After months of stress and anxiety, I found Bhargavi  Yoga. The peaceful environment and mindful approach have given me tools to manage my stress and find balance in my busy life.",
     image: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
   {

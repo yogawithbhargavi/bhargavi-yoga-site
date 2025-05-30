@@ -31,7 +31,7 @@ const Navbar: React.FC<NavbarProps> = ({ isScrolled }) => {
               strokeWidth={1.5}
             />
             <span className="text-xl font-display font-semibold text-yoga-heading">
-              Serene Yoga
+              Bhargavi  Yoga
             </span>
           </NavLink>
 
